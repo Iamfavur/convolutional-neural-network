@@ -1,1 +1,1 @@
-# Convolutional Neural Network - WaveNet architecture   (Part 5)
+# Convolutional Neural Network - WaveNet architecture (Part 5)
